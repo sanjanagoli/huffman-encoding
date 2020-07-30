@@ -7,3 +7,6 @@ The general implementation of this program is as follows: character frequency ta
 
 ## Demo
 ![Test-case](./test-case.png)
+
+## Run
+In order to run this program, use a preferred IDE to run `FrequencyMeasure`. In order to test a file of choice, update the `inputFile` variable to reflect the file of choice. Output files are produced based on the names of the input files.
